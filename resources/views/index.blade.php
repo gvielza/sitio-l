@@ -7,6 +7,6 @@
     <title>Mi Sitio</title>
 </head>
 <body>
-    <h1>Mi página</h1>
+    <h1>Mi página </h1>
 </body>
 </html>
